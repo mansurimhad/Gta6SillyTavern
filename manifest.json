@@ -1,0 +1,13 @@
+{
+  "display_name": "Силли Сити",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Silly City",
+  "version": "0.11.0",
+  "auto_update": false
+}
+
